@@ -33,7 +33,7 @@ The program provides both **audio output to speakers** and **visual feedback** o
 ---
 
 ## Repository Structure
-- **`main.c`** – Main source code containing audio interrupt handlers, effects, VGA drawing routines, and keyboard controls.  
+- **`main_mixer.c`** – Main source code containing audio interrupt handlers, effects, VGA drawing routines, and keyboard controls.  
 - **`ECE243 Final Project Report.pdf`** – Detailed project documentation (design, implementation, testing, and results).  
 
 ---
