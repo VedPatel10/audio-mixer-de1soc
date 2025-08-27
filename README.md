@@ -63,6 +63,6 @@ A short demo video is included in this repo:
 ## Acknowledgements
 This project was worked on for ECE243 (Computer Organization), a University of Toronto course.
 
-## Contributions
+## Contributers
 - [Kabir Guron](https://github.com/KabrG)  
 - [Ved Patel](https://github.com/VedPatel10)  
