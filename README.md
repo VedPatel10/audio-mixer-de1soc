@@ -41,7 +41,7 @@ The program provides both **audio output to speakers** and **visual feedback** o
 ## Demo
 A short demo video is included in this repo:  
 
-➡️ [Watch the Demo](https://drive.google.com/file/d/1IuRbUZx9DmW4cU2moNALvZx2G3chC0lR/view?usp=sharing)  
+➡️ [Watch the Demo](https://www.youtube.com/watch?v=w973th-ANfM&ab_channel=KabirGuron)  
 
 ---
 
