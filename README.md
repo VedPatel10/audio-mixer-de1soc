@@ -51,7 +51,7 @@ A short demo video is included in this repo:
 - **Echo Effect**: Circular buffer implementation with adjustable delay and damping factor.  
 - **Recording**: Stores ~32,000 samples (~4 sec at 8kHz) in a buffer, playable forward or backward.  
 - **KissFFT Integration**: Converts 64 most recent samples into frequency bins for VGA spectrum display.  
-- **Line-Out to Mic-In Circuit**: A simple breadboard circuit attenuates the line-out signal to mic-in levels, preventing clipping and distortion while simultaneously filtering out unwanted noise:contentReference[oaicite:1]{index=1}.  
+- **Line-Out to Mic-In Circuit**: A simple breadboard circuit attenuates the line-out signal to mic-in levels, preventing clipping and distortion while simultaneously filtering out unwanted noise.  
 
 ---
 
