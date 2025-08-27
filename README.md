@@ -21,7 +21,7 @@ The program provides both **audio output to speakers** and **visual feedback** o
 - **Interrupt-Driven Design**: Efficient handling of audio I/O using audio and keyboard interrupts.  
 - **FFT-based Visualization**: Real-time spectral analysis with KissFFT (O(N log N)), displayed on VGA as frequency bins (125 Hz resolution at 8 kHz sampling).  
 - **Pre-recorded Effects**: Playback of sampled sounds stored in arrays.  
-- **Custom Circuit**: A downconversion circuit was designed to safely route line-out audio into the DE1-SoC’s mic-in port. This circuit reduces the incoming voltage to avoid distortion or damage to the board and provides the added benefit of **noise reduction**, ensuring cleaner audio input:contentReference[oaicite:0]{index=0}.  
+- **Custom Circuit**: A downconversion circuit was designed to safely route line-out audio into the DE1-SoC’s mic-in port. This circuit reduces the incoming voltage to avoid distortion or damage to the board and provides the added benefit of **noise reduction**, ensuring cleaner audio input.  
 
 ---
 
